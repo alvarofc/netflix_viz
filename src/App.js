@@ -89,7 +89,7 @@ let global = require('./data/all-weeks-global.json')
                                 type : 'bar',
                                 marker: {color: 'red'},
                             }
-                        ]} layout={{title: "Hours viewed in the first 28 days"}}/>
+                        ]} layout={{title: "Hours viewed in the first 28 days",  paper_bgcolor:"#E5E7EB"}}/>
                       </Tab.Panel>
 
 
@@ -137,25 +137,26 @@ let global = require('./data/all-weeks-global.json')
                         {global.map(item => item.category).filter((value, index, self) => self.indexOf(value) === index).map(
                             (category, index) => {
                                 const data = global.filter(o => o.category === category);
-
+                                const currentShow = data.filter(o => o.week === "2022-01-02")
                                 return <Tab.Panel>
                                     <Plot key={index} data={[
-                                        data.map(i => i.show_title).filter((value, index, self) => self.indexOf(value) === index).map(
-                                            (show, index) => {
-                                                const currentShow = data.filter(o => o.show_title === show)
 
 
-                                                return {
 
-                                                    x: currentShow.map(o=> o.week),
-                                                    y: currentShow.map(o=> o.weekly_rank),
-                                                    type : 'line',
+                                    {  x: [2,4,6,8,10,12,14,16,18,20],
+                                                    y: [10,11,12,13,14,15,16,17,18,19],
+                                                    type : 'markers',
+                                                    text: currentShow.map(o=> `Title: ${o.show_title} <br> Hours: ${o.weekly_hours_viewed}`),
+                                                    marker : {
+                                                       color : Array.from({length: 10}).map( (o)=> {return '#'+Math.floor(Math.random()*16777215).toString(16)}),
+                                                        size : currentShow.map(o=> o.weekly_hours_viewed/1000000)
+                                                    }
 
                                                 }
-                                            }
-                                        )
 
-                                    ]} layout={{title: "Hours viewed in the first 28 days"}}/>
+
+
+                                    ]} layout={{title: "2022-01-02 views",  paper_bgcolor:"#9CA3AF"}}/>
                                 </Tab.Panel>
 
 
@@ -220,7 +221,7 @@ let global = require('./data/all-weeks-global.json')
                                    colors: ['rgb(234, 18, 18)', 'rgb(85, 224, 150)']
                                }
                            }
-                       ] }layout={{title: "Hours streamed"}} />
+                       ] }layout={{title: "Hours streamed",  paper_bgcolor:"#E5E7EB"}} />
                         </Tab.Panel>
                         <Tab.Panel>
                             <Plot data={[
@@ -234,7 +235,7 @@ let global = require('./data/all-weeks-global.json')
                                         colors: ['rgb(234, 18, 18)', 'rgb(85, 224, 150)']
                                     }
                                 }
-                            ] } layout={{title: "Hours streamed"}}/>
+                            ] } layout={{title: "Hours streamed",  paper_bgcolor:"#E5E7EB"}}/>
                         </Tab.Panel>
                     </Tab.Panels>
                 </div>
@@ -413,7 +414,7 @@ let global = require('./data/all-weeks-global.json')
                                                 font: {family: "Arial", size: 11, color: ['black', "#506784"]}
                                             }
                                         }
-                                    ]} layout={{title: `TOP 10 in ${selected} the ${date}`}}/>
+                                    ]} layout={{title: `TOP 10 in ${selected} the ${date}`,  paper_bgcolor:"#9CA3AF"}}/>
                                 </Tab.Panel>
 
 
