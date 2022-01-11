@@ -1,0 +1,282 @@
+[
+  {
+    "category": "Films (English)",
+    "rank": 1,
+    "show_title": "Red Notice",
+    "season_title": "",
+    "hours_viewed_first_28_days": 364020000
+  },
+  {
+    "category": "Films (English)",
+    "rank": 2,
+    "show_title": "Bird Box",
+    "season_title": "",
+    "hours_viewed_first_28_days": 282020000
+  },
+  {
+    "category": "Films (English)",
+    "rank": 3,
+    "show_title": "Don't Look Up",
+    "season_title": "",
+    "hours_viewed_first_28_days": 263320000
+  },
+  {
+    "category": "Films (English)",
+    "rank": 4,
+    "show_title": "Extraction",
+    "season_title": "",
+    "hours_viewed_first_28_days": 231340000
+  },
+  {
+    "category": "Films (English)",
+    "rank": 5,
+    "show_title": "The Irishman",
+    "season_title": "",
+    "hours_viewed_first_28_days": 214570000
+  },
+  {
+    "category": "Films (English)",
+    "rank": 6,
+    "show_title": "The Kissing Booth 2",
+    "season_title": "",
+    "hours_viewed_first_28_days": 209250000
+  },
+  {
+    "category": "Films (English)",
+    "rank": 7,
+    "show_title": "The Unforgivable",
+    "season_title": "",
+    "hours_viewed_first_28_days": 208220000
+  },
+  {
+    "category": "Films (English)",
+    "rank": 8,
+    "show_title": "6 Underground",
+    "season_title": "",
+    "hours_viewed_first_28_days": 205470000
+  },
+  {
+    "category": "Films (English)",
+    "rank": 9,
+    "show_title": "Spenser Confidential",
+    "season_title": "",
+    "hours_viewed_first_28_days": 197320000
+  },
+  {
+    "category": "Films (English)",
+    "rank": 10,
+    "show_title": "Enola Holmes",
+    "season_title": "",
+    "hours_viewed_first_28_days": 189900000
+  },
+  {
+    "category": "Films (Non-English)",
+    "rank": 1,
+    "show_title": "Blood Red Sky",
+    "season_title": "",
+    "hours_viewed_first_28_days": 110520000
+  },
+  {
+    "category": "Films (Non-English)",
+    "rank": 2,
+    "show_title": "The Platform",
+    "season_title": "",
+    "hours_viewed_first_28_days": 108090000
+  },
+  {
+    "category": "Films (Non-English)",
+    "rank": 3,
+    "show_title": "Below Zero",
+    "season_title": "",
+    "hours_viewed_first_28_days": 78300000
+  },
+  {
+    "category": "Films (Non-English)",
+    "rank": 4,
+    "show_title": "Rogue City",
+    "season_title": "",
+    "hours_viewed_first_28_days": 66600000
+  },
+  {
+    "category": "Films (Non-English)",
+    "rank": 5,
+    "show_title": "The Forgotten Battle",
+    "season_title": "",
+    "hours_viewed_first_28_days": 60940000
+  },
+  {
+    "category": "Films (Non-English)",
+    "rank": 6,
+    "show_title": "Lost Bullet",
+    "season_title": "",
+    "hours_viewed_first_28_days": 58320000
+  },
+  {
+    "category": "Films (Non-English)",
+    "rank": 7,
+    "show_title": "Spoiled Brats",
+    "season_title": "",
+    "hours_viewed_first_28_days": 56900000
+  },
+  {
+    "category": "Films (Non-English)",
+    "rank": 8,
+    "show_title": "#Alive",
+    "season_title": "",
+    "hours_viewed_first_28_days": 54620000
+  },
+  {
+    "category": "Films (Non-English)",
+    "rank": 9,
+    "show_title": "Space Sweepers",
+    "season_title": "",
+    "hours_viewed_first_28_days": 53340000
+  },
+  {
+    "category": "Films (Non-English)",
+    "rank": 10,
+    "show_title": "The Last Mercenary",
+    "season_title": "",
+    "hours_viewed_first_28_days": 52110000
+  },
+  {
+    "category": "TV (English)",
+    "rank": 1,
+    "show_title": "Bridgerton",
+    "season_title": "Bridgerton: Season 1",
+    "hours_viewed_first_28_days": 625490000
+  },
+  {
+    "category": "TV (English)",
+    "rank": 2,
+    "show_title": "Stranger Things",
+    "season_title": "Stranger Things 3",
+    "hours_viewed_first_28_days": 582100000
+  },
+  {
+    "category": "TV (English)",
+    "rank": 3,
+    "show_title": "The Witcher",
+    "season_title": "The Witcher: Season 1",
+    "hours_viewed_first_28_days": 541010000
+  },
+  {
+    "category": "TV (English)",
+    "rank": 4,
+    "show_title": "13 Reasons Why",
+    "season_title": "13 Reasons Why: Season 2",
+    "hours_viewed_first_28_days": 496120000
+  },
+  {
+    "category": "TV (English)",
+    "rank": 5,
+    "show_title": "13 Reasons Why",
+    "season_title": "13 Reasons Why: Season 1",
+    "hours_viewed_first_28_days": 475570000
+  },
+  {
+    "category": "TV (English)",
+    "rank": 6,
+    "show_title": "Maid",
+    "season_title": "Maid: Limited Series",
+    "hours_viewed_first_28_days": 469090000
+  },
+  {
+    "category": "TV (English)",
+    "rank": 7,
+    "show_title": "You",
+    "season_title": "You: Season 3",
+    "hours_viewed_first_28_days": 467830000
+  },
+  {
+    "category": "TV (English)",
+    "rank": 8,
+    "show_title": "You",
+    "season_title": "You: Season 2",
+    "hours_viewed_first_28_days": 457370000
+  },
+  {
+    "category": "TV (English)",
+    "rank": 9,
+    "show_title": "Stranger Things",
+    "season_title": "Stranger Things 2",
+    "hours_viewed_first_28_days": 427440000
+  },
+  {
+    "category": "TV (English)",
+    "rank": 10,
+    "show_title": "Sex Education",
+    "season_title": "Sex Education: Season 3",
+    "hours_viewed_first_28_days": 418760000
+  },
+  {
+    "category": "TV (Non-English)",
+    "rank": 1,
+    "show_title": "Squid Game",
+    "season_title": "Squid Game: Season 1",
+    "hours_viewed_first_28_days": 1650450000
+  },
+  {
+    "category": "TV (Non-English)",
+    "rank": 2,
+    "show_title": "Money Heist",
+    "season_title": "Money Heist: Part 4",
+    "hours_viewed_first_28_days": 619010000
+  },
+  {
+    "category": "TV (Non-English)",
+    "rank": 3,
+    "show_title": "Money Heist",
+    "season_title": "Money Heist: Part 3",
+    "hours_viewed_first_28_days": 426400000
+  },
+  {
+    "category": "TV (Non-English)",
+    "rank": 4,
+    "show_title": "Money Heist",
+    "season_title": "Money Heist: Part 5",
+    "hours_viewed_first_28_days": 395130000
+  },
+  {
+    "category": "TV (Non-English)",
+    "rank": 5,
+    "show_title": "Lupin",
+    "season_title": "Lupin: Part 1",
+    "hours_viewed_first_28_days": 316830000
+  },
+  {
+    "category": "TV (Non-English)",
+    "rank": 6,
+    "show_title": "Elite",
+    "season_title": "Elite: Season 3",
+    "hours_viewed_first_28_days": 275300000
+  },
+  {
+    "category": "TV (Non-English)",
+    "rank": 7,
+    "show_title": "Who Killed Sara?",
+    "season_title": "Who Killed Sara?: Season 1",
+    "hours_viewed_first_28_days": 266430000
+  },
+  {
+    "category": "TV (Non-English)",
+    "rank": 8,
+    "show_title": "Elite",
+    "season_title": "Elite: Season 4",
+    "hours_viewed_first_28_days": 257090000
+  },
+  {
+    "category": "TV (Non-English)",
+    "rank": 9,
+    "show_title": "The Queen of Flow",
+    "season_title": "The Queen of Flow: Season 2",
+    "hours_viewed_first_28_days": 230260000
+  },
+  {
+    "category": "TV (Non-English)",
+    "rank": 10,
+    "show_title": "Lupin",
+    "season_title": "Lupin: Part 2",
+    "hours_viewed_first_28_days": 214070000
+  }
+]
